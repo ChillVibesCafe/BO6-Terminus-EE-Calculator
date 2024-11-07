@@ -30,8 +30,6 @@ The algebra solver calculates the following three equations:
    ```sh
    pip install sympy tkinter
    ```
-   ```
-   ```
 
 ## How to Use
 
